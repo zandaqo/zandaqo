@@ -1,19 +1,13 @@
-### Greetings!
+### Greetings! :wave:
 
-I'm Maga, a Web Platform Engineer and Entrepreneur. My latest product is
-[Cisterna.app](https://cisterna.app)--a SaaS Warehouse Management System (WMS)
-for bulk fluid storage facilities built as a Progressive Web Application (PWA).
-I'm currently working on an educational startup (in closed alpha).
+I am...
 
-I share code on GitHub and infrequently write on
-[medium](https://medium.com/@zandaqo).
-
-When I am not busy with the above, I (re-)listen to the Discworld novels of Sir
-Terry Pratchett, occasionally managing to squeeze in
-[a book or two](https://goodreads.com/zandaqo) of other authors.
-
-Three times a week, I pretend to be a human forklift in the local gym,
-sporadically competing in powerlifting meets (PR 480@74 PL RAW).
-
-You can reach me via [denelxan@gmail.com](mailto:denelxan@gmail.com). Feel free
-to use English, Spanish, Russian, Nakh, or Ook.
+- :compass: a Web Platform Engineer and Entrepreneur.
+- :oil_drum: creator of [Cisterna](https://cisterna.app)—a SaaS Warehouse
+  Management System (WMS) for bulk fluid storage facilities.
+- :school: currently working on an educational startup (in closed alpha).
+- :fountain_pen: infrequent writer on [medium](https://medium.com/@zandaqo).
+- :books: a voracious (audio)book [consumer](https://goodreads.com/zandaqo).
+- :weight_lifting_man: a competing (amateur) powerlifter: PR 480@74 PL RAW
+- :e-mail: reachable via [denelxan@gmail.com](mailto:denelxan@gmail.com). Feel
+  free to use English, Spanish, Russian, Nakh, or Ook.
