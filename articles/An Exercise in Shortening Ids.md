@@ -71,6 +71,18 @@ encoder.fromUUID("6d2bb408-3176-42d3-b473-3d251f19569f") //=> "bSu0CDF2QtO0cz0lH
 
 And do so faster than any alternatives, albeit by trading a bit of memory for the speed.
 
+Of course, if we get the ids in their binary forms, we can forego hex encoding altogether and directly encode into our Base64:
+
+```javascript
+const encoder = new ObjectId64();
+const objectId = new ObjectId().id;
+//=> Uint8Array(12) [88,  22, ... 235,  85]
+const encoded = encoder.fromBinObjectId(objectId.id);
+//=> 'WBZTdmxdvBDwrOtV'
+const decoded = encoder.toBinObjectId(encoded)
+//=> //=> Uint8Array(12) [88,  22, ... 235,  85]
+```
+
 ------
 
 Thus, a simple task of making ids URL-friendly led us to contemplating architecture, learning in-depth about encodings and base conversions, employing bit twiddling hacks and memoization. In the end, your choice of ids should not be dictated by the way they look in URIs or even by the security concerns due to their exposure—you can always encode (or encrypt) into a preferred shape.
