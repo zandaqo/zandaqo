@@ -5,7 +5,7 @@ I am...
 - :compass: a Web Platform Engineer.
 - :oil_drum: creator of [Cisterna](https://cisterna.app)—a SaaS Warehouse
   Management System (WMS) for bulk fluid storage facilities.
-- :school: currently working on [Scriptare](https://scriptare.com)—an educational startup (in closed beta).
+- :school: and [Scriptare](https://scriptare.com)—an educational startup (in closed beta).
 - :fountain_pen: infrequent writer on [medium](https://medium.com/@zandaqo).
 - :books: a voracious (audio)book [consumer](https://goodreads.com/zandaqo).
 - :e-mail: reachable via [denelxan@gmail.com](mailto:denelxan@gmail.com). 
